@@ -2,7 +2,7 @@
 
 ## Description
 
-My challenge this week was to build the back end for an e-commerce site. I was given a working Express.js API and instructed to configure it to use Sequelize to interact with a MySQL database.
+My challenge this week was to build the back end for an e-commerce site. I was given a working Express.js API and instructed to configure it to use Sequelize to interact with a MySQL database. The application will not be deployed, so testing and the video walkthrough were completed in Insomnia.
 
 ## User Story
 
@@ -24,9 +24,9 @@ THEN the data for each of these routes is displayed in a formatted JSON
 WHEN I test API POST, PUT, and DELETE routes in Insomnia Core  
 THEN I am able to successfully create, update, and delete data in my database  
 
-## Screenshots
+## Demonstration
 
-![screenshot]()
+[Link to Demo](https://drive.google.com/file/d/1apjRRMeRHp_EN359P33K_Sng4ZyxmZv1/view)
 
 
 ## Contact
